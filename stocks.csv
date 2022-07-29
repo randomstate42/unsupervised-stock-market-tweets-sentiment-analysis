@@ -1,0 +1,7 @@
+ticker_symbol,search_term
+AAPL,"$AAPL" OR "Apple Inc" OR "Tim Cook"
+MSFT,"$MSFT" OR "Microsoft Corp" OR "Microsoft Corporation"
+GOOGL,"$GOOGL" OR "$GOOG" OR "Alphabet Inc"
+TSLA,"$TSLA" OR "Tesla, Inc"
+META,"$META" OR "Meta Platforms, Inc"
+NVDA,"$NVDA" OR "NVIDIA Corporation"
